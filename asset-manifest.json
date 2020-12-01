@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StCloudAlt/static/css/main.ffdab266.chunk.css",
+    "main.js": "/StCloudAlt/static/js/main.47bcd5ff.chunk.js",
+    "main.js.map": "/StCloudAlt/static/js/main.47bcd5ff.chunk.js.map",
+    "runtime-main.js": "/StCloudAlt/static/js/runtime-main.215a5580.js",
+    "runtime-main.js.map": "/StCloudAlt/static/js/runtime-main.215a5580.js.map",
+    "static/js/2.8f5e6027.chunk.js": "/StCloudAlt/static/js/2.8f5e6027.chunk.js",
+    "static/js/2.8f5e6027.chunk.js.map": "/StCloudAlt/static/js/2.8f5e6027.chunk.js.map",
+    "static/js/3.2b108d0e.chunk.js": "/StCloudAlt/static/js/3.2b108d0e.chunk.js",
+    "static/js/3.2b108d0e.chunk.js.map": "/StCloudAlt/static/js/3.2b108d0e.chunk.js.map",
+    "index.html": "/StCloudAlt/index.html",
+    "static/css/main.ffdab266.chunk.css.map": "/StCloudAlt/static/css/main.ffdab266.chunk.css.map",
+    "static/js/2.8f5e6027.chunk.js.LICENSE.txt": "/StCloudAlt/static/js/2.8f5e6027.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/StCloudAlt/static/media/tailor1.9ea8a527.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.215a5580.js",
+    "static/js/2.8f5e6027.chunk.js",
+    "static/css/main.ffdab266.chunk.css",
+    "static/js/main.47bcd5ff.chunk.js"
+  ]
+}
